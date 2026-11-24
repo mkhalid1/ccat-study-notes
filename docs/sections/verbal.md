@@ -1,4 +1,4 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [15-minute diagnostic](../diagnostic.md) · Next: [Math word problems](math-word-problems.md)<!-- /nav:top -->
+<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [10-minute diagnostic](../diagnostic.md) · Next: [Math word problems](math-word-problems.md)<!-- /nav:top -->
 
 # Verbal
 
@@ -49,110 +49,54 @@ Criteria gives 15 minutes for 50 questions, which is under 20 seconds each. As g
 
 ## Practice items
 
-These 12 items are original, written for these notes. They are not taken from the CCAT or from Criteria's materials.
-
-### Opposites and same meaning
+These 5 items are original, written for these notes. They are not taken from the CCAT or from Criteria's materials.
 
 **Item 1.** Which word is most nearly OPPOSITE to SCARCE?
 
 A. plentiful · B. rare · C. costly · D. hidden · E. small
 
-**Item 2.** Which word is CLOSEST in meaning to CANDID?
-
-A. sweet · B. frank · C. careful · D. secret · E. lucky
-
-**Item 3.** Which word is most nearly OPPOSITE to DIMINISH?
-
-A. reduce · B. fade · C. amplify · D. divide · E. repeat
-
-**Item 4.** Which word is CLOSEST in meaning to METICULOUS?
+**Item 2.** Which word is CLOSEST in meaning to METICULOUS?
 
 A. careless · B. thorough · C. quick · D. nervous · E. bold
 
-**Item 5.** Which word is most nearly OPPOSITE to OPAQUE?
+**Item 3.** THERMOMETER is to TEMPERATURE as SCALE is to:
 
-A. dark · B. solid · C. transparent · D. thick · E. shiny
+A. kitchen · B. weight · C. balance · D. height · E. metal
+
+**Item 4.** Although the new manager seemed ______ at first, the team soon found she was warm and easy to approach.
+
+A. distant · B. friendly · C. talented · D. late · E. generous
+
+**Item 5.** Which word does not belong with the others?
+
+A. oak · B. maple · C. birch · D. tulip · E. pine
 
 <details>
 <summary>Answers and explanations, items 1 to 5</summary>
 
 **Item 1: A, plentiful.** Scarce means there is not much of something. The opposite is having a lot of it. *Why not B:* "rare" is a synonym of scarce, placed there to catch anyone who misread the instruction.
 
-**Item 2: B, frank.** Candid means open and honest in what you say. *Why not D:* "secret" is closer to the opposite. *Why not A:* "sweet" may come from the sound of "candy" and has nothing to do with the meaning.
+**Item 2: B, thorough.** Meticulous means very careful about small details. *Why not A:* "careless" is the opposite. *Why not C:* a meticulous person is often slow, not quick.
 
-**Item 3: C, amplify.** Diminish means to make or become smaller or weaker. Amplify means to make larger or stronger. *Why not A or B:* "reduce" and "fade" are both close to diminish, so they are synonyms, not opposites.
+**Item 3: B, weight.** A thermometer measures temperature, and a scale measures weight. *Why not C:* a balance is another tool for weighing, so it pairs with "scale", not with what the scale measures.
 
-**Item 4: B, thorough.** Meticulous means very careful about small details. *Why not A:* "careless" is the opposite. *Why not C:* a meticulous person is often slow, not quick.
+**Item 4: A, distant.** "Although" signals a contrast with "warm and easy to approach". Distant is the opposite of that. *Why not B or E:* "friendly" and "generous" agree with the second half, so there is no contrast.
 
-**Item 5: C, transparent.** Opaque means light cannot pass through. Transparent means it can. *Why not A:* dark things are often opaque, so "dark" sits on the same side, not the opposite side.
-
-</details>
-
-### Analogies
-
-**Item 6.** THERMOMETER is to TEMPERATURE as SCALE is to:
-
-A. kitchen · B. weight · C. balance · D. height · E. metal
-
-**Item 7.** AUTHOR is to NOVEL as COMPOSER is to:
-
-A. orchestra · B. symphony · C. piano · D. conductor · E. audience
-
-**Item 8.** PEBBLE is to BOULDER as PUDDLE is to:
-
-A. rain · B. lake · C. bucket · D. mud · E. drop
-
-<details>
-<summary>Answers and explanations, items 6 to 8</summary>
-
-**Item 6: B, weight.** A thermometer measures temperature, and a scale measures weight. *Why not C:* a balance is another tool for weighing, so it pairs with "scale", not with what the scale measures.
-
-**Item 7: B, symphony.** An author creates a novel, and a composer creates a symphony. *Why not A or D:* a composer writes for an orchestra and a conductor leads it, but the composer does not create either one.
-
-**Item 8: B, lake.** A pebble is a small stone and a boulder is a very large one. A puddle is a small body of still water and a lake is a very large one. *Why not E:* "drop" is smaller than a puddle, which reverses the direction of the first pair.
+**Item 5: D, tulip.** Oak, maple, birch and pine are all trees. A tulip is a flower.
 
 </details>
 
-### Sentence completion and odd one out
-
-**Item 9.** Although the new manager seemed ______ at first, the team soon found she was warm and easy to approach.
-
-A. distant · B. friendly · C. talented · D. late · E. generous
-
-**Item 10.** The report was so ______ that the board asked for a one-page ______.
-
-A. brief / extension · B. lengthy / summary · C. clear / review · D. vague / appendix · E. short / version
-
-**Item 11.** Which word does not belong with the others?
-
-A. oak · B. maple · C. birch · D. tulip · E. pine
-
-**Item 12.** Her explanation was ______: every step followed clearly from the one before.
-
-A. logical · B. emotional · C. brief · D. lengthy · E. random
-
-<details>
-<summary>Answers and explanations, items 9 to 12</summary>
-
-**Item 9: A, distant.** "Although" signals a contrast with "warm and easy to approach". Distant is the opposite of that. *Why not B or E:* "friendly" and "generous" agree with the second half, so there is no contrast.
-
-**Item 10: B, lengthy / summary.** A board asks for a one-page summary when a report is too long. *Why not A:* if the report were brief, nobody would ask for something shorter, and an "extension" is not one page. *Why not D:* "vague" could fit the first blank, but a one-page appendix would add to the report, not fix it.
-
-**Item 11: D, tulip.** Oak, maple, birch and pine are all trees. A tulip is a flower.
-
-**Item 12: A, logical.** "Every step followed clearly from the one before" describes logic. *Why not C:* a brief explanation might also be clear, but the clue is about the steps following each other, not about length.
-
-</details>
+Want more? The free timed CCAT practice test on PrepClubs has the full 50 questions, scored by section: [CCAT practice test on PrepClubs](https://prepclubs.com/free-practice-tests/ccat?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=ccat).
 
 ## Score yourself
 
-| Item | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Answer | A | B | C | B | C | B | B | B | A | B | D | A |
+| Item | 1 | 2 | 3 | 4 | 5 |
+|---|---|---|---|---|---|
+| Answer | A | B | B | A | D |
 
-- **11 to 12:** verbal is a strength. Use it to save time on the test and spend your practice on math and spatial.
-- **8 to 10:** check whether your misses were vocabulary (you did not know the word) or reading (you knew it but misread the instruction). Reading misses are the easier fix.
-- **7 or fewer:** do steps 1 and 2 of the method out loud for a week. Read a little every day, and look up any word you can only half define.
+- **5:** verbal is a strength. Use it to save time on the test and spend your practice on math and spatial.
+- **4:** check whether your misses were vocabulary (you did not know the word) or reading (you knew it but misread the instruction). Reading misses are the easier fix.
+- **3 or fewer:** do steps 1 and 2 of the method out loud for a week. Read a little every day, and look up any word you can only half define.
 
 ## Next step
 
@@ -160,4 +104,4 @@ Verbal items feel easy in a list and harder when mixed with math under a 15-minu
 
 ---
 
-<!-- nav:bottom -->← Previous: [15-minute diagnostic](../diagnostic.md) | Next: [Math word problems](math-word-problems.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->← Previous: [10-minute diagnostic](../diagnostic.md) | Next: [Math word problems](math-word-problems.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->

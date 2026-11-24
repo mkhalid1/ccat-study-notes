@@ -2,7 +2,7 @@
 
 # Study plans
 
-Two plans: one for a week, one for when the test link has already arrived. Both start with the [15-minute diagnostic](diagnostic.md), so you know your weakest question type. Expect 30 to 60 minutes a day on the 7-day plan.
+Two plans: one for a week, one for when the test link has already arrived. Both start with the [10-minute diagnostic](diagnostic.md), so you know your weakest question type. Expect 30 to 60 minutes a day on the 7-day plan.
 
 The CCAT is short and the skills it tests build slowly, so a week of steady practice helps more than one long cram. Most of the gain in a week comes from two things you can change fast: your pacing and the traps you keep falling into.
 
@@ -10,10 +10,10 @@ The CCAT is short and the skills it tests build slowly, so a week of steady prac
 
 | Day | Focus | What to do |
 |---|---|---|
-| 1 | Baseline | Read the [test overview](test-overview.md). Take the [diagnostic](diagnostic.md) in 5 minutes. Then take a full timed run, such as the [free CCAT practice test on PrepClubs](https://prepclubs.com/free-practice-tests/ccat?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=ccat), to get a real starting score. |
-| 2 | Math word problems | Read the [math guide](sections/math-word-problems.md). Learn the mental math table. Do all 12 items without a calculator, timed to 6 minutes. |
+| 1 | Baseline | Read the [test overview](test-overview.md). Take the [diagnostic](diagnostic.md) in 3 minutes. Then take a full timed run, such as the [free CCAT practice test on PrepClubs](https://prepclubs.com/free-practice-tests/ccat?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=ccat), to get a real starting score. |
+| 2 | Math word problems | Read the [math guide](sections/math-word-problems.md). Learn the mental math table. Do all 5 items without a calculator, timed to 2 and a half minutes. |
 | 3 | Series and logic | Read the [series](sections/number-series.md) and [logic](sections/logic.md) guides. Do both item sets. Learn the series method order and the logic patterns table until you can write them from memory. |
-| 4 | Verbal and spatial | Read the [verbal](sections/verbal.md) and [spatial](sections/spatial-reasoning.md) guides. Do both sets. Aim for verbal in under 3 minutes. |
+| 4 | Verbal and spatial | Read the [verbal](sections/verbal.md) and [spatial](sections/spatial-reasoning.md) guides. Do both sets. Aim for verbal in under 1 minute. |
 | 5 | Second timed run | Take a second full timed test. Read the [timing guide](timing.md) first. Note your question number at 5, 10 and 14 minutes and compare with the checkpoints. |
 | 6 | Fix the weakest type | Go back to your weakest type's traps list. Redo its items without looking at the answers. Find at least 20 fresh items of that type and do them timed. |
 | 7 | Final run and rest | Take a final timed run in the morning. Compare with days 1 and 5. Read the [test-day checklist](test-day-checklist.md). Stop by early evening. |
@@ -36,7 +36,7 @@ For when the test link has arrived and the deadline is close.
 
 | Block | Time | What to do |
 |---|---|---|
-| 1 | 15 min | Take the [diagnostic](diagnostic.md). |
+| 1 | 10 min | Take the [diagnostic](diagnostic.md). |
 | 2 | 20 min | Read "How the questions look" and "Traps that cost points" on all five section pages. Skip the rest for now. |
 | 3 | 15 min | Read the [timing guide](timing.md). Learn the three clock checkpoints. |
 | 4 | 15 min | Take a full timed run, such as the [free one on PrepClubs](https://prepclubs.com/free-practice-tests/ccat?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=ccat). |

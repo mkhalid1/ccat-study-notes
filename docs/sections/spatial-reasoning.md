@@ -44,7 +44,7 @@ As guidance: 15 to 30 seconds each. Spatial items are either quick or very slow,
 
 ## Practice items
 
-These 12 items are original, written for these notes. They are not taken from the CCAT or from Criteria's materials. Black symbols (● ■ ▲ ◆ ★) are filled; white symbols (○ □ △ ◇ ☆) are empty.
+These 5 items are original, written for these notes. They are not taken from the CCAT or from Criteria's materials. Black symbols (● ■ ▲ ◆ ★) are filled; white symbols (○ □ △ ◇ ☆) are empty.
 
 **Item 1.** Which figure does not belong?
 
@@ -52,23 +52,7 @@ These 12 items are original, written for these notes. They are not taken from th
 A. ■ ■ □     B. ● ● ○     C. ▲ ▲ △     D. ◆ ◇ ◇     E. ★ ★ ☆
 ```
 
-**Item 2.** What comes next?
-
-```
-▲      ▲ ▼      ▲ ▼ ▲      ?
-```
-
-A. ▲ ▼ ▲ ▼ · B. ▲ ▲ ▼ ▲ · C. ▼ ▲ ▼ ▲ · D. ▲ ▼ ▼ ▲ · E. ▲ ▼ ▲ ▲
-
-**Item 3.** The arrow turns the same way each step. What comes next?
-
-```
-→      ↓      ←      ↑      →      ?
-```
-
-A. ↑ · B. ↓ · C. ← · D. → · E. ↗
-
-**Item 4.** The arrow turns the same way each step. What comes next?
+**Item 2.** The arrow turns the same way each step. What comes next?
 
 ```
 ↑      ↗      →      ↘      ?
@@ -76,20 +60,7 @@ A. ↑ · B. ↓ · C. ← · D. → · E. ↗
 
 A. ↙ · B. ← · C. ↓ · D. ↑ · E. ↖
 
-<details>
-<summary>Answers and explanations, items 1 to 4</summary>
-
-**Item 1: D.** Every other figure has two filled symbols and one empty one. D has one filled and two empty.
-
-**Item 2: A, ▲ ▼ ▲ ▼.** Each figure adds one triangle, and the triangles alternate up and down. The fourth figure has four triangles: up, down, up, down. *Why not E:* it has four triangles but breaks the alternation at the end.
-
-**Item 3: B, ↓.** The arrow turns 90 degrees clockwise each step: right, down, left, up, right. The next is down.
-
-**Item 4: C, ↓.** The arrow turns 45 degrees clockwise each step: up, up-right, right, down-right. The next is down. *Why not A:* down-left would be a 90 degree turn, skipping a step.
-
-</details>
-
-**Item 5.** Each row follows the same rule. Which figure goes in the empty cell?
+**Item 3.** Each row follows the same rule. Which figure goes in the empty cell?
 
 ```
 ●   ■   ▲
@@ -99,44 +70,11 @@ A. ↙ · B. ← · C. ↓ · D. ↑ · E. ↖
 
 A. ● · B. ■ · C. ▲ · D. ◆ · E. ○
 
-**Item 6.** Which figure goes in the empty cell?
-
-```
-●      ● ●      ● ● ●
-■      ■ ■      ■ ■ ■
-▲       ?       ▲ ▲ ▲
-```
-
-A. ▲ · B. ▲ ▲ · C. ■ ■ · D. ● ● · E. ▲ ▲ ▲ ▲
-
-**Item 7.** A mirror stands upright to the right of the letter **b**. What does the reflection look like?
+**Item 4.** A mirror stands upright to the right of the letter **b**. What does the reflection look like?
 
 A. b · B. d · C. p · D. q · E. 6
 
-**Item 8.** The letter **p** is rotated 180 degrees (turned upside down) on the page. What does it look like?
-
-A. b · B. d · C. q · D. p · E. 9
-
-<details>
-<summary>Answers and explanations, items 5 to 8</summary>
-
-**Item 5: B, ■.** Each row contains one circle, one square and one triangle. The third row has a triangle and a circle, so the missing figure is a square. The columns follow the same rule, which confirms it.
-
-**Item 6: B, ▲ ▲.** Each row keeps one shape, and the number of shapes goes 1, 2, 3 across the columns. The middle of the third row needs two triangles. *Why not C or D:* the count is right but the shape belongs to another row.
-
-**Item 7: B, d.** A vertical mirror swaps left and right. The bowl of "b" is on the right of the stem; in the mirror it is on the left, which gives "d". *Why not D:* "q" also has the bowl on the left, but at the top with the stem going down, which needs a turn as well as a flip.
-
-**Item 8: B, d.** Turning "p" upside down moves its stem from bottom left to top right and its bowl from top right to bottom left. That is "d". *Why not C:* "q" is a mirror image of "p", not a rotation. A rotation cannot turn a shape into its mirror image.
-
-</details>
-
-**Item 9.** Four of these are the same shape turned to different angles. Which one is not?
-
-```
-A. ┏      B. ┓      C. ┛      D. ┗      E. ┃
-```
-
-**Item 10.** How many squares of any size are in this figure, a large square split into four equal small squares?
+**Item 5.** How many squares of any size are in this figure, a large square split into four equal small squares?
 
 ```
 ┌───┬───┐
@@ -148,45 +86,32 @@ A. ┏      B. ┓      C. ┛      D. ┗      E. ┃
 
 A. 4 · B. 5 · C. 6 · D. 8 · E. 9
 
-**Item 11.** A shape gains one side at each step: triangle, square, pentagon. What comes next?
-
-A. circle · B. hexagon · C. octagon · D. square · E. triangle
-
-**Item 12.** A black dot moves around the four corners of a square. What comes next?
-
-```
-Step 1     Step 2     Step 3     Step 4
-● ○        ○ ●        ○ ○          ?
-○ ○        ○ ○        ○ ●
-```
-
-```
-A. ● ○     B. ○ ●     C. ○ ○     D. ○ ○     E. ● ●
-   ○ ○        ○ ○        ● ○        ○ ●        ○ ○
-```
-
 <details>
-<summary>Answers and explanations, items 9 to 12</summary>
+<summary>Answers and explanations, items 1 to 5</summary>
 
-**Item 9: E.** A, B, C and D are all the same corner shape, turned 90 degrees each time. E is a straight line with no corner.
+**Item 1: D.** Every other figure has two filled symbols and one empty one. D has one filled and two empty.
 
-**Item 10: B, 5.** There are four small squares and one large square made by all four together. *Why not A:* it forgets the large square, the classic counting trap.
+**Item 2: C, ↓.** The arrow turns 45 degrees clockwise each step: up, up-right, right, down-right. The next is down. *Why not A:* down-left would be a 90 degree turn, skipping a step.
 
-**Item 11: B, hexagon.** Three sides, four, five, so the next shape has six sides: a hexagon. *Why not C:* an octagon has eight sides, which skips two steps.
+**Item 3: B, ■.** Each row contains one circle, one square and one triangle. The third row has a triangle and a circle, so the missing figure is a square. The columns follow the same rule, which confirms it.
 
-**Item 12: C.** The dot moves clockwise: top left, top right, bottom right. The next corner clockwise is bottom left, which is option C. *Why not D:* D is step 3 again.
+**Item 4: B, d.** A vertical mirror swaps left and right. The bowl of "b" is on the right of the stem; in the mirror it is on the left, which gives "d". *Why not D:* "q" also has the bowl on the left, but at the top with the stem going down, which needs a turn as well as a flip.
+
+**Item 5: B, 5.** There are four small squares and one large square made by all four together. *Why not A:* it forgets the large square, the classic counting trap.
 
 </details>
 
+Want more? The free timed CCAT practice test on PrepClubs has the full 50 questions, scored by section: [CCAT practice test on PrepClubs](https://prepclubs.com/free-practice-tests/ccat?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=ccat).
+
 ## Score yourself
 
-| Item | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Answer | D | A | B | C | B | B | B | B | E | B | B | C |
+| Item | 1 | 2 | 3 | 4 | 5 |
+|---|---|---|---|---|---|
+| Answer | D | C | B | B | B |
 
-- **11 to 12:** spatial is a strength. Keep your feature list habit and move on to your weakest type.
-- **8 to 10:** look at which feature you missed: count, shading, direction or position. Put that feature first on your list.
-- **7 or fewer:** go through the feature list out loud on every item until it is automatic. Practise rotations with a real object, such as a sticky note with a letter on it.
+- **5:** spatial is a strength. Keep your feature list habit and move on to your weakest type.
+- **4:** look at which feature you missed: count, shading, direction or position. Put that feature first on your list.
+- **3 or fewer:** go through the feature list out loud on every item until it is automatic. Practise rotations with a real object, such as a sticky note with a letter on it.
 
 ## Next step
 

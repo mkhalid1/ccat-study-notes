@@ -75,7 +75,7 @@ Criteria's UCAT (Universal Cognitive Aptitude Test) is its language-independent 
 
 ## Where can I find a free CCAT practice test with answers?
 
-The [free CCAT practice test on PrepClubs](https://prepclubs.com/free-practice-tests/ccat?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=ccat) uses 50 questions in 15 minutes. Criteria also has [free practice tests](https://www.criteriacorp.com/candidates/practice-tests), which it describes as shortened versions. And every section of these notes has 12 original items with full explanations, plus a [15-minute diagnostic](diagnostic.md).
+The [free CCAT practice test on PrepClubs](https://prepclubs.com/free-practice-tests/ccat?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=ccat) uses 50 questions in 15 minutes. Criteria also has [free practice tests](https://www.criteriacorp.com/candidates/practice-tests), which it describes as shortened versions. And every section of these notes has 5 original items with full explanations, plus a [10-minute diagnostic](diagnostic.md).
 
 ---
 

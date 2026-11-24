@@ -66,93 +66,48 @@ As guidance: 15 to 25 seconds for a true, false or uncertain item, and up to 40 
 
 ## Practice items
 
-These 12 items are original, written for these notes. They are not taken from the CCAT or from Criteria's materials.
+These 5 items are original, written for these notes. They are not taken from the CCAT or from Criteria's materials.
 
-For items 1 to 7 and 9 to 10, assume the first two statements are true. Is the third statement **true**, **false** or **uncertain**?
+For items 1 to 3 and 5, assume the first two statements are true. Is the third statement **true**, **false** or **uncertain**?
 
 **Item 1.** All analysts use spreadsheets. Priya is an analyst. *Priya uses spreadsheets.*
 
-**Item 2.** Some managers are engineers. All engineers took the safety course. *Some managers took the safety course.*
+**Item 2.** All roses are flowers. Some flowers fade quickly. *Some roses fade quickly.*
 
-**Item 3.** All roses are flowers. Some flowers fade quickly. *Some roses fade quickly.*
+**Item 3.** Tom is taller than Ann. Ann is taller than Raj. *Raj is taller than Tom.*
 
-**Item 4.** No interns have parking passes. Leo has a parking pass. *Leo is an intern.*
-
-<details>
-<summary>Answers and explanations, items 1 to 4</summary>
-
-**Item 1: True.** Priya is in the group of analysts, and everyone in that group uses spreadsheets.
-
-**Item 2: True.** The managers who are engineers must have taken the course, because all engineers did. "Some" means at least one, so at least one manager took the course.
-
-**Item 3: Uncertain.** The flowers that fade quickly could all be tulips. Draw roses as a circle inside flowers, then draw "fade quickly" overlapping flowers without touching roses. It fits both statements. You can also draw it overlapping roses. Both pictures work, so you cannot tell.
-
-**Item 4: False.** No intern has a pass, and Leo has one, so Leo cannot be an intern.
-
-</details>
-
-**Item 5.** Tom is taller than Ann. Ann is taller than Raj. *Raj is taller than Tom.*
-
-**Item 6.** Mia finished before Sam. Lee finished before Sam. *Mia finished before Lee.*
-
-**Item 7.** Bus A leaves after bus B. Bus C leaves before bus B. *Bus C leaves before bus A.*
-
-<details>
-<summary>Answers and explanations, items 5 to 7</summary>
-
-**Item 5: False.** On a line from tallest to shortest: Tom, Ann, Raj. Raj is the shortest of the three, so he cannot be taller than Tom.
-
-**Item 6: Uncertain.** Both Mia and Lee finished before Sam, but nothing compares Mia with Lee. Either could have been first.
-
-**Item 7: True.** In order of leaving: C, then B, then A. So C leaves before A.
-
-</details>
-
-**Item 8.** Five colleagues, Ben, Cara, Dev, Eli and Fay, sit in a row of five seats, numbered 1 to 5 from left to right. Ben sits in seat 3. Cara sits immediately to the right of Ben. Dev sits in seat 1. Eli does not sit next to Dev. Who sits in seat 2?
+**Item 4.** Five colleagues, Ben, Cara, Dev, Eli and Fay, sit in a row of five seats, numbered 1 to 5 from left to right. Ben sits in seat 3. Cara sits immediately to the right of Ben. Dev sits in seat 1. Eli does not sit next to Dev. Who sits in seat 2?
 
 A. Ben · B. Cara · C. Dev · D. Eli · E. Fay
 
-**Item 9.** If it rains, the match is cancelled. The match was not cancelled. *It rained.*
-
-**Item 10.** If it rains, the match is cancelled. The match was cancelled. *It rained.*
+**Item 5.** If it rains, the match is cancelled. The match was cancelled. *It rained.*
 
 <details>
-<summary>Answers and explanations, items 8 to 10</summary>
+<summary>Answers and explanations, items 1 to 5</summary>
 
-**Item 8: E, Fay.** Place the fixed facts: Dev in seat 1, Ben in seat 3, and Cara immediately to Ben's right in seat 4. Seats 2 and 5 are left for Eli and Fay. Seat 2 is next to Dev, and Eli does not sit next to Dev, so Eli is in seat 5 and Fay is in seat 2.
+**Item 1: True.** Priya is in the group of analysts, and everyone in that group uses spreadsheets.
 
-**Item 9: False.** If it had rained, the match would have been cancelled. It was not cancelled, so it did not rain.
+**Item 2: Uncertain.** The flowers that fade quickly could all be tulips. Draw roses as a circle inside flowers, then draw "fade quickly" overlapping flowers without touching roses. It fits both statements. You can also draw it overlapping roses. Both pictures work, so you cannot tell.
 
-**Item 10: Uncertain.** Rain would cancel the match, but the match could have been cancelled for another reason, such as a team not turning up or a power cut at the ground. The statements do not say rain is the only cause.
+**Item 3: False.** On a line from tallest to shortest: Tom, Ann, Raj. Raj is the shortest of the three, so he cannot be taller than Tom.
+
+**Item 4: E, Fay.** Place the fixed facts: Dev in seat 1, Ben in seat 3, and Cara immediately to Ben's right in seat 4. Seats 2 and 5 are left for Eli and Fay. Seat 2 is next to Dev, and Eli does not sit next to Dev, so Eli is in seat 5 and Fay is in seat 2.
+
+**Item 5: Uncertain.** Rain would cancel the match, but the match could have been cancelled for another reason, such as a team not turning up or a power cut at the ground. The statements do not say rain is the only cause.
 
 </details>
 
-**Item 11.** In a team of 30 people, 18 speak French, 15 speak Spanish and 5 speak neither language. How many speak both French and Spanish?
-
-A. 3 · B. 5 · C. 8 · D. 10 · E. 13
-
-**Item 12.** If the day after tomorrow is Saturday, what day was yesterday?
-
-A. Monday · B. Tuesday · C. Wednesday · D. Thursday · E. Friday
-
-<details>
-<summary>Answers and explanations, items 11 to 12</summary>
-
-**Item 11: C, 8.** 30 − 5 = 25 people speak at least one of the languages. Adding the two groups gives 18 + 15 = 33, which counts the people who speak both twice. 33 − 25 = 8 speak both. *Why not E:* 13 is 18 − 5, which mixes up the groups.
-
-**Item 12: C, Wednesday.** If the day after tomorrow is Saturday, tomorrow is Friday and today is Thursday. Yesterday was Wednesday. *Why not D:* Thursday is today, a one-step slip.
-
-</details>
+Want more? The free timed CCAT practice test on PrepClubs has the full 50 questions, scored by section: [CCAT practice test on PrepClubs](https://prepclubs.com/free-practice-tests/ccat?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=ccat).
 
 ## Score yourself
 
-| Item | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Answer | True | True | Uncertain | False | False | Uncertain | True | E | False | Uncertain | C | C |
+| Item | 1 | 2 | 3 | 4 | 5 |
+|---|---|---|---|---|---|
+| Answer | True | Uncertain | False | E | Uncertain |
 
-- **11 to 12:** your logic is precise. Keep the drawing habit for test day, when speed tempts you to skip it.
-- **8 to 10:** check the patterns table against your misses. Most misses come from reversing "all" or "if" (items 3 and 10).
-- **7 or fewer:** draw every item for a week, even the easy ones. Logic errors almost always come from answering from a feeling rather than a picture.
+- **5:** your logic is precise. Keep the drawing habit for test day, when speed tempts you to skip it.
+- **4:** check the patterns table against your misses. Most misses come from reversing "all" or "if" (items 2 and 5).
+- **3 or fewer:** draw every item for a week, even the easy ones. Logic errors almost always come from answering from a feeling rather than a picture.
 
 ## Next step
 

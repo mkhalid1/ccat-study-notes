@@ -1,13 +1,13 @@
 # CCAT Study Notes
 
-A free, complete study guide for the Criteria Cognitive Aptitude Test (CCAT): how the 50-question, 15-minute test works, a clear method for every question type, 75 original practice items with full explanations, how scoring really works, a pacing plan built around the clock, and study plans for a week or a weekend. Written for anyone who has just been sent a CCAT link by an employer. Facts about the test come only from Criteria Corp's own pages, each one [cited](docs/sources.md).
+A free, complete study guide for the Criteria Cognitive Aptitude Test (CCAT): how the 50-question, 15-minute test works, a clear method for every question type, 35 original practice items with full explanations, how scoring really works, a pacing plan built around the clock, and study plans for a week or a weekend. Written for anyone who has just been sent a CCAT link by an employer. Facts about the test come only from Criteria Corp's own pages, each one [cited](docs/sources.md).
 
-Want to see where you stand first? Take the [free timed CCAT practice test on PrepClubs](https://prepclubs.com/free-practice-tests/ccat?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=ccat) (50 questions, 15 minutes), or the shorter [15-minute diagnostic](docs/diagnostic.md) in this repo.
+Want to see where you stand first? Take the [free timed CCAT practice test on PrepClubs](https://prepclubs.com/free-practice-tests/ccat?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=ccat) (50 questions, 15 minutes), or the shorter [10-minute diagnostic](docs/diagnostic.md) in this repo.
 
 ## Start here
 
-1. **Find your weak spots.** Take the [15-minute diagnostic](docs/diagnostic.md). It has three items of each type and tells you where to start.
-2. **Fix the weakest type first.** Open its guide below, learn the method and the traps, then do its 12 practice items.
+1. **Find your weak spots.** Take the [10-minute diagnostic](docs/diagnostic.md). It has two items of each type and tells you where to start.
+2. **Fix the weakest type first.** Open its guide below, learn the method and the traps, then do its 5 practice items.
 3. **Learn the pace.** Read the [timing guide](docs/timing.md). On the CCAT, pacing moves your score more than anything else.
 4. **Follow a plan.** Use the [7-day plan](docs/study-plans.md#7-day-plan), or the [2-day plan](docs/study-plans.md#2-day-plan) if your test link has already arrived.
 
@@ -41,7 +41,7 @@ Criteria names three types: verbal, math and logic, and spatial reasoning. These
 | Logic | True, false or uncertain; ordering; small puzzles | 15 to 40 seconds | [Logic](docs/sections/logic.md) |
 | Spatial reasoning | Odd one out, next figure, grids, rotations | 15 to 30 seconds | [Spatial](docs/sections/spatial-reasoning.md) |
 
-Target times are our guidance. Every type guide has the same parts: what it measures, how the questions look, a step-by-step method, the traps that cost points, timing advice, 12 original practice items with explanations, and a score table.
+Target times are our guidance. Every type guide has the same parts: what it measures, how the questions look, a step-by-step method, the traps that cost points, timing advice, 5 original practice items with explanations, and a score table.
 
 ## Contents
 
@@ -57,7 +57,7 @@ Target times are our guidance. Every type guide has the same parts: what it meas
   - [Tests with similar names](docs/test-overview.md#tests-with-similar-names)
   - [The one rule that runs through the whole test](docs/test-overview.md#the-one-rule-that-runs-through-the-whole-test)
   - [Practise the real format](docs/test-overview.md#practise-the-real-format)
-- [15-minute diagnostic](docs/diagnostic.md)
+- [10-minute diagnostic](docs/diagnostic.md)
   - [Part A: Verbal](docs/diagnostic.md#part-a-verbal)
   - [Part B: Math word problems](docs/diagnostic.md#part-b-math-word-problems)
   - [Part C: Number and letter series](docs/diagnostic.md#part-c-number-and-letter-series)
@@ -188,7 +188,7 @@ Target times are our guidance. Every type guide has the same parts: what it meas
 
 ## About the practice items
 
-All 75 practice items (60 in the type guides and 15 in the diagnostic) are original, written for these notes. None are taken from the CCAT, from Criteria's materials or from any prep site. They follow the published question types so the methods you learn here transfer to the real test. Spatial items use text symbols so they display anywhere; the real test uses drawn figures.
+All 35 practice items (25 in the type guides and 10 in the diagnostic) are original, written for these notes. None are taken from the CCAT, from Criteria's materials or from any prep site. They follow the published question types so the methods you learn here transfer to the real test. Spatial items use text symbols so they display anywhere; the real test uses drawn figures.
 
 ## Contributing
 

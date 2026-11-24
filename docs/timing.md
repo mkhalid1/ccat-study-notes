@@ -64,7 +64,7 @@ If you can see that you will not reach a question in time and you are allowed to
 
 Knowing the methods is half the job. The other half is doing them at 18 seconds a question. Two habits help:
 
-- **Time your practice sets.** Every 12-item set in these notes has a target: about 3 minutes for verbal, 5 for series and logic, 6 for math.
+- **Time your practice sets.** Every 5-item set in these notes has a target: about 1 minute for verbal, 2 for series and logic, 2 and a half for math.
 - **Take full timed runs.** The [free CCAT practice test on PrepClubs](https://prepclubs.com/free-practice-tests/ccat?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=ccat) uses 50 questions in 15 minutes. After each run, note which question you were on at 5, 10 and 14 minutes, and compare it with the checkpoints above.
 
 ---
