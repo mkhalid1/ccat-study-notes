@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [Verbal](verbal.md) · Next: [Number and letter series](number-series.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../../README.md#contents) · Previous: [Verbal](verbal.md) · Next: [Number and letter series](number-series.md)
+<!-- /nav:top -->
 
 # Math word problems
 
@@ -120,4 +122,6 @@ Mental math is slower under a running clock. Try these topics in a full timed ru
 
 ---
 
-<!-- nav:bottom -->← Previous: [Verbal](verbal.md) | Next: [Number and letter series](number-series.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Verbal](verbal.md) | Next: [Number and letter series](number-series.md) → | [Back to contents](../../README.md#contents)
+<!-- /nav:bottom -->

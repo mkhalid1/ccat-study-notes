@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [Number and letter series](number-series.md) · Next: [Spatial reasoning](spatial-reasoning.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../../README.md#contents) · Previous: [Number and letter series](number-series.md) · Next: [Spatial reasoning](spatial-reasoning.md)
+<!-- /nav:top -->
 
 # Logic
 
@@ -115,4 +117,6 @@ Logic items reward calm, and the clock removes calm. Practise them under time in
 
 ---
 
-<!-- nav:bottom -->← Previous: [Number and letter series](number-series.md) | Next: [Spatial reasoning](spatial-reasoning.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Number and letter series](number-series.md) | Next: [Spatial reasoning](spatial-reasoning.md) → | [Back to contents](../../README.md#contents)
+<!-- /nav:bottom -->

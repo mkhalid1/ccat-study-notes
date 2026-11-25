@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [10-minute diagnostic](../diagnostic.md) · Next: [Math word problems](math-word-problems.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../../README.md#contents) · Previous: [10-minute diagnostic](../diagnostic.md) · Next: [Math word problems](math-word-problems.md)
+<!-- /nav:top -->
 
 # Verbal
 
@@ -104,4 +106,6 @@ Verbal items feel easy in a list and harder when mixed with math under a 15-minu
 
 ---
 
-<!-- nav:bottom -->← Previous: [10-minute diagnostic](../diagnostic.md) | Next: [Math word problems](math-word-problems.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [10-minute diagnostic](../diagnostic.md) | Next: [Math word problems](math-word-problems.md) → | [Back to contents](../../README.md#contents)
+<!-- /nav:bottom -->

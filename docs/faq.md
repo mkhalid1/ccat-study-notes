@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../README.md#contents) · Previous: [Test-day checklist](test-day-checklist.md) · Next: [Glossary](glossary.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../README.md#contents) · Previous: [Test-day checklist](test-day-checklist.md) · Next: [Glossary](glossary.md)
+<!-- /nav:top -->
 
 # Frequently asked questions
 
@@ -79,4 +81,6 @@ The [free CCAT practice test on PrepClubs](https://prepclubs.com/free-practice-t
 
 ---
 
-<!-- nav:bottom -->← Previous: [Test-day checklist](test-day-checklist.md) | Next: [Glossary](glossary.md) → | [Back to contents](../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Test-day checklist](test-day-checklist.md) | Next: [Glossary](glossary.md) → | [Back to contents](../README.md#contents)
+<!-- /nav:bottom -->

@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [Logic](logic.md) · Next: [How scoring works](../scoring.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../../README.md#contents) · Previous: [Logic](logic.md) · Next: [How scoring works](../scoring.md)
+<!-- /nav:top -->
 
 # Spatial reasoning
 
@@ -119,4 +121,6 @@ Real spatial items are drawn, not typed, and they come mixed in with verbal and 
 
 ---
 
-<!-- nav:bottom -->← Previous: [Logic](logic.md) | Next: [How scoring works](../scoring.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Logic](logic.md) | Next: [How scoring works](../scoring.md) → | [Back to contents](../../README.md#contents)
+<!-- /nav:bottom -->

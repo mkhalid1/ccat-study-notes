@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../README.md#contents) · Previous: [How scoring works](scoring.md) · Next: [Study plans: 7 days and 2 days](study-plans.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../README.md#contents) · Previous: [How scoring works](scoring.md) · Next: [Study plans: 7 days and 2 days](study-plans.md)
+<!-- /nav:top -->
 
 # Timing and pacing
 
@@ -69,4 +71,6 @@ Knowing the methods is half the job. The other half is doing them at 18 seconds 
 
 ---
 
-<!-- nav:bottom -->← Previous: [How scoring works](scoring.md) | Next: [Study plans: 7 days and 2 days](study-plans.md) → | [Back to contents](../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [How scoring works](scoring.md) | Next: [Study plans: 7 days and 2 days](study-plans.md) → | [Back to contents](../README.md#contents)
+<!-- /nav:bottom -->

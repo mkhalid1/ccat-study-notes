@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../README.md#contents) · Previous: [Home](../README.md) · Next: [10-minute diagnostic](diagnostic.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../README.md#contents) · Previous: [Home](../README.md) · Next: [10-minute diagnostic](diagnostic.md)
+<!-- /nav:top -->
 
 # The CCAT explained
 
@@ -71,4 +73,6 @@ These notes teach each question type on its own. The real test mixes them under 
 
 ---
 
-<!-- nav:bottom -->← Previous: [Home](../README.md) | Next: [10-minute diagnostic](diagnostic.md) → | [Back to contents](../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Home](../README.md) | Next: [10-minute diagnostic](diagnostic.md) → | [Back to contents](../README.md#contents)
+<!-- /nav:bottom -->

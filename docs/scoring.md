@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../README.md#contents) · Previous: [Spatial reasoning](sections/spatial-reasoning.md) · Next: [Timing and pacing](timing.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../README.md#contents) · Previous: [Spatial reasoning](sections/spatial-reasoning.md) · Next: [Timing and pacing](timing.md)
+<!-- /nav:top -->
 
 # How CCAT scoring works
 
@@ -66,4 +68,6 @@ Three rules follow directly from how the CCAT is scored:
 
 ---
 
-<!-- nav:bottom -->← Previous: [Spatial reasoning](sections/spatial-reasoning.md) | Next: [Timing and pacing](timing.md) → | [Back to contents](../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Spatial reasoning](sections/spatial-reasoning.md) | Next: [Timing and pacing](timing.md) → | [Back to contents](../README.md#contents)
+<!-- /nav:bottom -->

@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../README.md#contents) · Previous: [Study plans: 7 days and 2 days](study-plans.md) · Next: [FAQ](faq.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../README.md#contents) · Previous: [Study plans: 7 days and 2 days](study-plans.md) · Next: [FAQ](faq.md)
+<!-- /nav:top -->
 
 # Test-day checklist
 
@@ -54,4 +56,6 @@ If you have time for one more full run, take the [free timed CCAT practice test 
 
 ---
 
-<!-- nav:bottom -->← Previous: [Study plans: 7 days and 2 days](study-plans.md) | Next: [FAQ](faq.md) → | [Back to contents](../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Study plans: 7 days and 2 days](study-plans.md) | Next: [FAQ](faq.md) → | [Back to contents](../README.md#contents)
+<!-- /nav:bottom -->

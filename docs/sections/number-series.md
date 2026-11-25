@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [Math word problems](math-word-problems.md) · Next: [Logic](logic.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../../README.md#contents) · Previous: [Math word problems](math-word-problems.md) · Next: [Logic](logic.md)
+<!-- /nav:top -->
 
 # Number and letter series
 
@@ -109,4 +111,6 @@ Series are quick wins on test day once the method is automatic. Try them mixed w
 
 ---
 
-<!-- nav:bottom -->← Previous: [Math word problems](math-word-problems.md) | Next: [Logic](logic.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Math word problems](math-word-problems.md) | Next: [Logic](logic.md) → | [Back to contents](../../README.md#contents)
+<!-- /nav:bottom -->
