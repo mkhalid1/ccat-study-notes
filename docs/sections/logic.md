@@ -99,7 +99,7 @@ A. Ben · B. Cara · C. Dev · D. Eli · E. Fay
 
 </details>
 
-Want more? The free timed CCAT practice test on PrepClubs has the full 50 questions, scored by section: [CCAT practice test on PrepClubs](https://prepclubs.com/free-practice-tests/ccat?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=ccat).
+Want more? The free timed CCAT practice test on PrepClubs has the full 50 questions, scored by section: [CCAT practice test on PrepClubs](https://prepclubs.com/free-practice-tests/ccat?utm_source=github&utm_medium=referral&utm_campaign=m56hy5&utm_content=ccat).
 
 ## Score yourself
 
@@ -113,7 +113,7 @@ Want more? The free timed CCAT practice test on PrepClubs has the full 50 questi
 
 ## Next step
 
-Logic items reward calm, and the clock removes calm. Practise them under time in the [free CCAT practice test on PrepClubs](https://prepclubs.com/free-practice-tests/ccat?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=ccat), then go back to the patterns table for any you missed.
+Logic items reward calm, and the clock removes calm. Practise them under time in the [free CCAT practice test on PrepClubs](https://prepclubs.com/free-practice-tests/ccat?utm_source=github&utm_medium=referral&utm_campaign=m56hy5&utm_content=ccat), then go back to the patterns table for any you missed.
 
 ---
 

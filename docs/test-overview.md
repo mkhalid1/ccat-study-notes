@@ -69,7 +69,7 @@ Searches for "CCAT" mix up several different tests. Make sure you are preparing 
 
 ## Practise the real format
 
-These notes teach each question type on its own. The real test mixes them under one clock. Once you know the methods, take a full timed run such as the [free CCAT practice test on PrepClubs](https://prepclubs.com/free-practice-tests/ccat?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=ccat), which has 50 questions and a 15-minute limit like the real one. Criteria also offers [free practice tests](https://www.criteriacorp.com/candidates/practice-tests), which it describes as shortened versions that do not show the full difficulty of the real assessment.
+These notes teach each question type on its own. The real test mixes them under one clock. Once you know the methods, take a full timed run such as the [free CCAT practice test on PrepClubs](https://prepclubs.com/free-practice-tests/ccat?utm_source=github&utm_medium=referral&utm_campaign=m56hy5&utm_content=ccat), which has 50 questions and a 15-minute limit like the real one. Criteria also offers [free practice tests](https://www.criteriacorp.com/candidates/practice-tests), which it describes as shortened versions that do not show the full difficulty of the real assessment.
 
 ---
 

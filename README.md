@@ -2,7 +2,7 @@
 
 A free, complete study guide for the Criteria Cognitive Aptitude Test (CCAT): how the 50-question, 15-minute test works, a clear method for every question type, 35 original practice items with full explanations, how scoring really works, a pacing plan built around the clock, and study plans for a week or a weekend. Written for anyone who has just been sent a CCAT link by an employer. Facts about the test come only from Criteria Corp's own pages, each one [cited](docs/sources.md).
 
-Want to see where you stand first? Take the [free timed CCAT practice test on PrepClubs](https://prepclubs.com/free-practice-tests/ccat?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=ccat) (50 questions, 15 minutes), or the shorter [10-minute diagnostic](docs/diagnostic.md) in this repo.
+Want to see where you stand first? Take the [free timed CCAT practice test on PrepClubs](https://prepclubs.com/free-practice-tests/ccat?utm_source=github&utm_medium=referral&utm_campaign=m56hy5&utm_content=ccat) (50 questions, 15 minutes), or the shorter [10-minute diagnostic](docs/diagnostic.md) in this repo.
 
 ## Start here
 
@@ -183,7 +183,7 @@ Target times are our guidance. Every type guide has the same parts: what it meas
 - **No calculator.** The real test does not allow one, so do not use one in practice either.
 - **Read every explanation,** including for items you got right. Most explanations say why the tempting wrong option is wrong, which is where the learning is.
 - **Keep a miss log.** For each miss, write down the habit that would have caught it. The [study plans](docs/study-plans.md#how-to-review-a-missed-item) show how.
-- **Practise the full test.** The notes teach the methods. A full timed run, such as the [free one on PrepClubs](https://prepclubs.com/free-practice-tests/ccat?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=ccat), teaches the pace.
+- **Practise the full test.** The notes teach the methods. A full timed run, such as the [free one on PrepClubs](https://prepclubs.com/free-practice-tests/ccat?utm_source=github&utm_medium=referral&utm_campaign=m56hy5&utm_content=ccat), teaches the pace.
 - **Clone or fork it** if you want to annotate your own copy. The structure also works as a GitBook space: see [SUMMARY.md](SUMMARY.md).
 
 ## About the practice items

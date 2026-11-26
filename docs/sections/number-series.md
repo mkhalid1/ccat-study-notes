@@ -93,7 +93,7 @@ A. 71 · B. 89 · C. 94 · D. 95 · E. 96
 
 </details>
 
-Want more? The free timed CCAT practice test on PrepClubs has the full 50 questions, scored by section: [CCAT practice test on PrepClubs](https://prepclubs.com/free-practice-tests/ccat?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=ccat).
+Want more? The free timed CCAT practice test on PrepClubs has the full 50 questions, scored by section: [CCAT practice test on PrepClubs](https://prepclubs.com/free-practice-tests/ccat?utm_source=github&utm_medium=referral&utm_campaign=m56hy5&utm_content=ccat).
 
 ## Score yourself
 
@@ -107,7 +107,7 @@ Want more? The free timed CCAT practice test on PrepClubs has the full 50 questi
 
 ## Next step
 
-Series are quick wins on test day once the method is automatic. Try them mixed with other question types in the [free CCAT practice test on PrepClubs](https://prepclubs.com/free-practice-tests/ccat?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=ccat), and keep a list of any rule type that caught you out.
+Series are quick wins on test day once the method is automatic. Try them mixed with other question types in the [free CCAT practice test on PrepClubs](https://prepclubs.com/free-practice-tests/ccat?utm_source=github&utm_medium=referral&utm_campaign=m56hy5&utm_content=ccat), and keep a list of any rule type that caught you out.
 
 ---
 

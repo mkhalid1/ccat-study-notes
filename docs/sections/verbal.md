@@ -88,7 +88,7 @@ A. oak · B. maple · C. birch · D. tulip · E. pine
 
 </details>
 
-Want more? The free timed CCAT practice test on PrepClubs has the full 50 questions, scored by section: [CCAT practice test on PrepClubs](https://prepclubs.com/free-practice-tests/ccat?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=ccat).
+Want more? The free timed CCAT practice test on PrepClubs has the full 50 questions, scored by section: [CCAT practice test on PrepClubs](https://prepclubs.com/free-practice-tests/ccat?utm_source=github&utm_medium=referral&utm_campaign=m56hy5&utm_content=ccat).
 
 ## Score yourself
 
@@ -102,7 +102,7 @@ Want more? The free timed CCAT practice test on PrepClubs has the full 50 questi
 
 ## Next step
 
-Verbal items feel easy in a list and harder when mixed with math under a 15-minute clock. Try them in a full timed run with the [free CCAT practice test on PrepClubs](https://prepclubs.com/free-practice-tests/ccat?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=ccat), then come back to the traps list for anything you missed.
+Verbal items feel easy in a list and harder when mixed with math under a 15-minute clock. Try them in a full timed run with the [free CCAT practice test on PrepClubs](https://prepclubs.com/free-practice-tests/ccat?utm_source=github&utm_medium=referral&utm_campaign=m56hy5&utm_content=ccat), then come back to the traps list for anything you missed.
 
 ---
 

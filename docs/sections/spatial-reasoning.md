@@ -103,7 +103,7 @@ A. 4 · B. 5 · C. 6 · D. 8 · E. 9
 
 </details>
 
-Want more? The free timed CCAT practice test on PrepClubs has the full 50 questions, scored by section: [CCAT practice test on PrepClubs](https://prepclubs.com/free-practice-tests/ccat?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=ccat).
+Want more? The free timed CCAT practice test on PrepClubs has the full 50 questions, scored by section: [CCAT practice test on PrepClubs](https://prepclubs.com/free-practice-tests/ccat?utm_source=github&utm_medium=referral&utm_campaign=m56hy5&utm_content=ccat).
 
 ## Score yourself
 
@@ -117,7 +117,7 @@ Want more? The free timed CCAT practice test on PrepClubs has the full 50 questi
 
 ## Next step
 
-Real spatial items are drawn, not typed, and they come mixed in with verbal and math. Practise them mixed and timed in the [free CCAT practice test on PrepClubs](https://prepclubs.com/free-practice-tests/ccat?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=ccat), then come back to the feature list for any you missed.
+Real spatial items are drawn, not typed, and they come mixed in with verbal and math. Practise them mixed and timed in the [free CCAT practice test on PrepClubs](https://prepclubs.com/free-practice-tests/ccat?utm_source=github&utm_medium=referral&utm_campaign=m56hy5&utm_content=ccat), then come back to the feature list for any you missed.
 
 ---
 

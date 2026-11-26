@@ -52,7 +52,7 @@ Fifteen minutes goes fast. Most of what decides your score happens before you cl
 
 ## Last practice before the real one
 
-If you have time for one more full run, take the [free timed CCAT practice test on PrepClubs](https://prepclubs.com/free-practice-tests/ccat?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=ccat) a day or two before, not on the morning itself.
+If you have time for one more full run, take the [free timed CCAT practice test on PrepClubs](https://prepclubs.com/free-practice-tests/ccat?utm_source=github&utm_medium=referral&utm_campaign=m56hy5&utm_content=ccat) a day or two before, not on the morning itself.
 
 ---
 

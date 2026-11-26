@@ -12,7 +12,7 @@ The CCAT is short and the skills it tests build slowly, so a week of steady prac
 
 | Day | Focus | What to do |
 |---|---|---|
-| 1 | Baseline | Read the [test overview](test-overview.md). Take the [diagnostic](diagnostic.md) in 3 minutes. Then take a full timed run, such as the [free CCAT practice test on PrepClubs](https://prepclubs.com/free-practice-tests/ccat?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=ccat), to get a real starting score. |
+| 1 | Baseline | Read the [test overview](test-overview.md). Take the [diagnostic](diagnostic.md) in 3 minutes. Then take a full timed run, such as the [free CCAT practice test on PrepClubs](https://prepclubs.com/free-practice-tests/ccat?utm_source=github&utm_medium=referral&utm_campaign=m56hy5&utm_content=ccat), to get a real starting score. |
 | 2 | Math word problems | Read the [math guide](sections/math-word-problems.md). Learn the mental math table. Do all 5 items without a calculator, timed to 2 and a half minutes. |
 | 3 | Series and logic | Read the [series](sections/number-series.md) and [logic](sections/logic.md) guides. Do both item sets. Learn the series method order and the logic patterns table until you can write them from memory. |
 | 4 | Verbal and spatial | Read the [verbal](sections/verbal.md) and [spatial](sections/spatial-reasoning.md) guides. Do both sets. Aim for verbal in under 1 minute. |
@@ -41,7 +41,7 @@ For when the test link has arrived and the deadline is close.
 | 1 | 10 min | Take the [diagnostic](diagnostic.md). |
 | 2 | 20 min | Read "How the questions look" and "Traps that cost points" on all five section pages. Skip the rest for now. |
 | 3 | 15 min | Read the [timing guide](timing.md). Learn the three clock checkpoints. |
-| 4 | 15 min | Take a full timed run, such as the [free one on PrepClubs](https://prepclubs.com/free-practice-tests/ccat?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=ccat). |
+| 4 | 15 min | Take a full timed run, such as the [free one on PrepClubs](https://prepclubs.com/free-practice-tests/ccat?utm_source=github&utm_medium=referral&utm_campaign=m56hy5&utm_content=ccat). |
 | 5 | 25 min | Review every miss with the three questions above. Do the practice items for your weakest type. |
 
 ### Day 2: sit the test

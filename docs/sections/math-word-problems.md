@@ -104,7 +104,7 @@ A. 6.7 · B. 12 · C. 14 · D. 15 · E. 20
 
 </details>
 
-Want more? The free timed CCAT practice test on PrepClubs has the full 50 questions, scored by section: [CCAT practice test on PrepClubs](https://prepclubs.com/free-practice-tests/ccat?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=ccat).
+Want more? The free timed CCAT practice test on PrepClubs has the full 50 questions, scored by section: [CCAT practice test on PrepClubs](https://prepclubs.com/free-practice-tests/ccat?utm_source=github&utm_medium=referral&utm_campaign=m56hy5&utm_content=ccat).
 
 ## Score yourself
 
@@ -118,7 +118,7 @@ Want more? The free timed CCAT practice test on PrepClubs has the full 50 questi
 
 ## Next step
 
-Mental math is slower under a running clock. Try these topics in a full timed run with the [free CCAT practice test on PrepClubs](https://prepclubs.com/free-practice-tests/ccat?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=ccat), then check the traps list against your misses.
+Mental math is slower under a running clock. Try these topics in a full timed run with the [free CCAT practice test on PrepClubs](https://prepclubs.com/free-practice-tests/ccat?utm_source=github&utm_medium=referral&utm_campaign=m56hy5&utm_content=ccat), then check the traps list against your misses.
 
 ---
 
